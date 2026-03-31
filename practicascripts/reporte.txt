@@ -1,0 +1,5 @@
+Usuario: debian, cantidad de archivos con la extension txt: )
+Usuario: debian, cantidad de archivos con la extension txt: )
+Usuario: debian, cantidad de archivos con la extension txt: 9 
+Usuario: debian, cantidad de archivos con la extension sh: 31 
+Usuario: debian, cantidad de archivos con la extension hola: 1 
